@@ -33,4 +33,3 @@ This is an entry in the event structure. It contains
 
 Start with the buses distributed uniformly along the route (by generating appropriate arrivalevents) and generating one person event for each stop.
  
-i have included a .jar file for easy execution along with copy of the code. the input file location  can be modified as per requirements.
